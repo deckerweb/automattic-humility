@@ -1,4 +1,4 @@
-# Genesis Elementor Canvas
+# Automattic Humility
 
 * Contributors: [David Decker](https://github.com/deckerweb), [contributors](https://github.com/deckerweb/automattic-humility/graphs/contributors)
 * Tags: automattic, jetpack, woocommerce, ads, tracking, humility

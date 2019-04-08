@@ -1,4 +1,4 @@
-# Builder Template Categories
+# Plugin: Automattic Humility
 
 **General Info**
 
