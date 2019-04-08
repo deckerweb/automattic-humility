@@ -12,7 +12,7 @@
 ## Changelog of the Plugin
 
 
-### 1.0.0 - 2018-08-20
+### 1.0.0 - 2019-04-08
 
 * Launch - everything's new ;-)
 * Public launch on GitHub.com
