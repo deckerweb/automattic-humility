@@ -60,4 +60,13 @@ And also trying to completely stop the WooCommerce tracking.
 --> See plugin file [CHANGES.md here](https://github.com/deckerweb/automattic-humility/blob/master/CHANGES.md)
 
 
+## More Stuff:
+
+* [Subscribe to my Newsletter](https://eepurl.com/gbAUUn)
+* [Toolbar Extras - my flagship plugin - just check it out](https://toolbarextras.com) :-)
+* [deckerweb Plugins](https://deckerweb-plugins.com)
+
+
+---
+
 Copyright (c) 2019 David Decker - DECKERWEB-Plugins.com
