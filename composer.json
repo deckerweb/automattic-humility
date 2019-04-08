@@ -1,0 +1,22 @@
+{
+  "name": "deckerweb/automattic-humility",
+  "description": "Humble yourself in the GDPR, Automattic! Only ever track people who explicitely opted in. Spare us your advertisements. -- We look at you, Automattic. We are the WordPress people - we have power, we stand up, we raise our voices.",
+  "keywords": ["automattic", "jetpack", "woocommerce", "ads", "tracking", "humility"],
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/deckerweb/automattic-humility",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "David Decker",
+      "homepage": "https://deckerweb-plugins.com/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/deckerweb/automattic-humility/issues",
+    "source": "https://github.com/deckerweb/automattic-humility"
+  },
+  "require": {
+    "php": ">=5.6"
+  }
+}
